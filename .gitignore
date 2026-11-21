@@ -1,0 +1,20 @@
+# HSIS data are licensed and must not be redistributed
+Excel/
+*.gdb/
+*.gdb
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# outputs, downloaded map layers and caches
+analysis_out/
+gis/
+_archive/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

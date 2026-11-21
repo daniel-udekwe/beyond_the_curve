@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy
+scipy
+statsmodels>=0.14
+patsy
+pyarrow
+matplotlib
+geopandas
+pyogrio
+libpysal
+esda
+torch
+rasterio
+basemap-data
+pillow
